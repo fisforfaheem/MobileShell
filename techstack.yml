@@ -1,7 +1,8 @@
 repo_name: fisforfaheem/MobileShell
 report_id: 8ff5a4f1612f75b5b8d556e0b54a7bbd
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T06:58:26+00:00'
+timestamp: '2024-01-05T08:58:26+00:00'
 requested_by: ADeltaX
 provider: github
 branch: experiments
@@ -17,8 +18,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: MobileShellServer/MobileShellServer.csproj
-  detection_source: src/MobileShell.csproj
+  detection_source_url: https://github.com/fisforfaheem/MobileShell/blob/experiments/MobileShellServer/MobileShellServer.csproj
+  detection_source: MobileShellServer/MobileShellServer.csproj
   last_updated_by: ADeltaX
   last_updated_on: 2019-06-09 22:46:01.000000000 Z
 - name: C#
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/fisforfaheem/MobileShell
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -42,8 +44,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source_url: MobileShellServer/MobileShellServer.csproj
-  detection_source: src/MobileShell.csproj
+  detection_source_url: https://github.com/fisforfaheem/MobileShell/blob/experiments/MobileShellServer/MobileShellServer.csproj
+  detection_source: MobileShellServer/MobileShellServer.csproj
   last_updated_by: ADeltaX
   last_updated_on: 2019-06-09 22:46:01.000000000 Z
 - name: Git
@@ -54,6 +56,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/fisforfaheem/MobileShell
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -64,6 +67,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/fisforfaheem/MobileShell/blob/experiments/src/MobileShell.sln
   detection_source: src/MobileShell.sln
   last_updated_by: ADeltaX
   last_updated_on: 2019-03-09 14:53:37.000000000 Z
